@@ -2,4 +2,4 @@
 
 ## The University of Arizona
 
-Welcome to our website! We conduct research at the intersection of ecology, evolution, software development, and data science. Please visit our [website](https://datadiversitylab.github.io/) for more information!
+We conduct research at the intersection of ecology, evolution, software development, and data science. Please visit our [website](https://datadiversitylab.github.io/) for more information!
